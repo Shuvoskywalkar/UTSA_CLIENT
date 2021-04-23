@@ -1,0 +1,7 @@
+.MembersContainer{margin-top: 150px;}
+.TeamCard:hover{box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);;
+    border-radius: 10px;}
+    .TeamCard{width: 110%;}
+    .circleImage{clip-path: circle();height: 100px;}
+
+    .FileLabel3{color: white;height: 175px;width: 200px;background-color: dimgray;clip-path: circle();display: flex;justify-content: center;align-items: center;}

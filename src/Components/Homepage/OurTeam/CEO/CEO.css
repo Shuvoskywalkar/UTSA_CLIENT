@@ -1,0 +1,27 @@
+
+.CEOcontainer::before{
+    content: "";
+    
+    width: 100%;
+    position: absolute;
+   
+    top: 0;
+    
+}
+.CEOcontainer{
+    margin-top: 150px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhIVFRUVFRcVFRUVFRUVFRUVFRUXFxUVFRUYHSggGBolHRUXITEhJSkrLi4uFx8zODMtNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAACAQMABAf/xAAYEAEBAQEBAAAAAAAAAAAAAAAAARECEv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD4arnAq44pASQpFkKQExZCnJYAyLIUhSAHlZyciyAGL5PFwGXl15a4mAy8usaY6wGV5S8tcTAZeUvLTy6wGWJY0sTAZYljTBsBnjsPBsAcTCxwChUQc5zgc5zgUpHSFIDpCkdIcgOnJTkpCkBJys5KQpAGclIUizkAwsKcrgBiyHi4DOx1jTy7AZY5piWAysdjTBwGdiWNLEsBlYNjWxLAY4ljTBoM8StLAsAMQ7BoClhYgChVARznA1kOReYc5BOYfMdI0kBJCkXmHICYuLh4AyLIUhSAOLhyL5BnYXk5HYAY7y0x05BleUvLW8pYDHymNbEsBjYNjbBsBlYGNbBoM7AsaWDYDOwbGlGwAGw7EwAsE6IDYhVMAXK4Hq55aSO5hYCyFHSFICyFjpysgOkKR0hSA7C5iyLIDpCx0WQExcKRZAHEvLSR2AzxLy0x1gMbBvLawLAZYNjaxnYDLArawOoDLqBWtgdQGdGxpYFgBYNOwaAVCogNSlUoC5zge/mHEhcwFkKRIcgOhY6LICyHEhSAuFEkKAuLIsXAdiyLIuAjsLFwGflMa0bAZ9QbGlg2AysDqNrA6gMuoz6jbpnQZUOmvUZ0Gdg06NBnYPTToKAWDTo0BQhAXLjge+HBhQC5hQeS5AocGFICw4MhwFhwYQLIYw4DiiQoDnRVAalKoAUejo0GfQ2HRoM+mfVaUKDLpn1GtCwGVCtemdAOhPoKAJ0fQgCLUBNc5wPdD5Zw5QOFBhQChxm0gFD5DkpQOUoEpygUOQIUoGsG1YBSrRlWAjlogiLaNAaFh9QbQCs7T6DoGfTOtOoHUBn0HR0OgGwMPoKA0Ojo0BtFagOcjge2FGfJyg0hSs4cA9PWUPQaQozPmgcKUIsBrqyhKsoNIUZ6soNHaMrtAlGVPQOtS1L0mglouo9UE6odUg6AOgpWhQCh0dCwBsCnQ6AaHRD0A2o5wI5LXA9UpysocoNZSlZcnKDSUpWcKUGkpTpnKUoNJS1nKoNp06UOasoNVlZSlKDTVnTPXSgeu0NdoFqJo2g60ddqUE0bVoWgnVZ0rRtAKNpUOqA0KQUEodFaFBw1RtBHI4HolOVlKXNBrzSlZylKDXSlZSnzQaSrKzlKUGkpSstLQayrKy1ZQa6UrKdLoNNWVnrpQaa70GpaDTRtCV16AhtHXUFtGu0KDqNXqhaCWhStZ2glF3VG0Bo2r1RB1GrQoOcjgbSrKz0pQaylKylKUGulOmUpToGspSspVlBrKuspSlBrKuspVlBrq+mcq+ga661n6doNNdemeu9Aeu0NdoFqWjqdUDtG1NG9AvVDVvQdUHWha7qhoOtDpbQtB1outS0EtFbUBzkcBauucBSlKjgLTlc4F1dc4ClWVHAXop05wLKvpXA7XenOB2u1zgdrtc4HalrnAl6S1zgC0b05wDaFrnANo2ucApXOBEc4HOc4H//Z');
+    position: relative;
+    opacity: .9;
+    background-color:rgb(202, 39, 39);
+}
+.CEOcontainer img{
+    width: 1000px;
+    height: 500px;
+    margin-top: 29px;
+    transform: translateY(-130px);
+}
